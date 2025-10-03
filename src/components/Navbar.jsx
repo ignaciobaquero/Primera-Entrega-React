@@ -1,4 +1,5 @@
 import styles from '../components/Navbar.module.css'
+import CartWidget from './CartWidget';
 
 
 const Navbar = () => {
@@ -12,8 +13,10 @@ const Navbar = () => {
       <li>Sobre Nosotros</li>
       <li>Sucursales</li>
       <li>Contacto</li>
+       <CartWidget></CartWidget>
     </ul>
   </header>
+ 
 </nav>
 
   )

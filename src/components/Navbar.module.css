@@ -14,7 +14,7 @@
 .links {
     display: flex;
     justify-content: space-around;
-    padding-top: 4rem;
+    margin-top: 4%;
     font-family:'Courier New', Courier, monospace;
     font-weight: 900;
     cursor: pointer;
