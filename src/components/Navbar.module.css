@@ -1,0 +1,21 @@
+.navbar {
+    background-color: rgb(155, 155, 197);
+    margin: 1rem;
+    font-family: sans-serif;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.links {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 4rem;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 900;
+    cursor: pointer;
+}
